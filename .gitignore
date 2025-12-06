@@ -1,0 +1,16 @@
+# Ignore Python venv
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# SQLite DB files
+*.db
+
+# Data/output folders
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
