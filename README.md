@@ -367,10 +367,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/repo/discussions)
-- **Email**: your.email@example.com
+- **Email**: luuphuc1368@gmail.com
 
 ## 🌟 Star History
 
